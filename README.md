@@ -1,2 +1,3 @@
 # my-first-rep
-im new and im trying this out
+i am java newbie,,
+im new to github im trying this out
